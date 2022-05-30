@@ -1,0 +1,17 @@
+{
+  "name": "jest-uuid-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.0",
+    "jest-environment-jsdom": "^28.1.0",
+    "uuid": "^8.3.2"
+  }
+}
